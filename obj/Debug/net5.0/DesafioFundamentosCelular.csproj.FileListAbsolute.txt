@@ -1,0 +1,16 @@
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/obj/Debug/net5.0/DesafioFundamentosCelular.csproj.AssemblyReference.cache
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/obj/Debug/net5.0/DesafioFundamentosCelular.GeneratedMSBuildEditorConfig.editorconfig
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/obj/Debug/net5.0/DesafioFundamentosCelular.AssemblyInfoInputs.cache
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/obj/Debug/net5.0/DesafioFundamentosCelular.AssemblyInfo.cs
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/obj/Debug/net5.0/DesafioFundamentosCelular.csproj.CoreCompileInputs.cache
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/bin/Debug/net5.0/DesafioFundamentosCelular
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/bin/Debug/net5.0/DesafioFundamentosCelular.deps.json
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/bin/Debug/net5.0/DesafioFundamentosCelular.runtimeconfig.json
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/bin/Debug/net5.0/DesafioFundamentosCelular.runtimeconfig.dev.json
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/bin/Debug/net5.0/DesafioFundamentosCelular.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/bin/Debug/net5.0/ref/DesafioFundamentosCelular.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/bin/Debug/net5.0/DesafioFundamentosCelular.pdb
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/obj/Debug/net5.0/DesafioFundamentosCelular.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/obj/Debug/net5.0/ref/DesafioFundamentosCelular.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/obj/Debug/net5.0/DesafioFundamentosCelular.pdb
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosCelular/obj/Debug/net5.0/DesafioFundamentosCelular.genruntimeconfig.cache
